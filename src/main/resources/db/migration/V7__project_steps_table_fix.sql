@@ -1,0 +1,1 @@
+alter table project_steps alter column project_id int not null;
